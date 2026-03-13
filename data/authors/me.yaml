@@ -10,8 +10,8 @@ postnominals: []
 status:
   icon: "👨‍💻"
 role: "EE Master's Student @ Tsinghua University"
-email: "alex@example.com"
-bio: "Master's student in Electrical Engineering at Tsinghua University, focusing on new power system planning and renewable energy. Proficient in Python, MATLAB, C/C++ and LaTeX. Dedicated to exploring technical pathways for the low-carbon energy transition. "
+email: "jialiangwang_dlut@163.com"
+bio: "Master's student in Electrical Engineering at Tsinghua University, focusing on power system planning and renewable energy. Proficient in Python, MATLAB, C/C++ and LaTeX. Dedicated to exploring technical pathways for the low-carbon energy transition. "
 affiliations:
   - name: "Tech Corp"
     url: "https://techcorp.example.com"
@@ -33,35 +33,38 @@ education:
     end: "2026-6-30"
     summary: ""
   - degree: "M.S. in Electrical Engineering"
-    institution: "Tshinghua University"
+    institution: "Tsinghua University"
     start: "2026-9-1"
     end: ""
     summary: ""
 experience:
-  - role: "Senior Software Engineer"
-    org: "Tech Corp"
-    start: "2023-01-01"
-    summary: "Lead development of microservices architecture serving 1M+ users.
+  - role: "Hardware Engineer"
+    org: "Dalian University of Technology"
+    start: "Oct 2023"
+    end: "Apr 2025"
+    summary: "Spearheaded end-to-end hardware, mechanical, and algorithmic design for two National-Level Undergraduate Innovation robotics projects. Key achievements include leading the development of an FPGA-based Amphibious Transformable UAV—featuring a novel servo-driven wing-folding mechanism (achieving a 30% weight reduction) and a custom Verilog 3-loop cascade PID controller—which secured a National First Prize and the prestigious Best Creativity Award. Additionally, I designed the complete hardware and core attitude-determination algorithms for a highly agile self-balancing unicycle, implementing cascade PID for dual-orthogonal momentum wheels and an encoder-gyro sensor fusion algorithm for robust autonomous navigation."
+  - role: "Deep Learning Researcher"
+    org: "Peking University"
+    start: "Apr 2025"
+    end: "Sep 2025"
+    summary: "Directed the end-to-end research and development of a Physics-Informed Deep Learning (LSTM) model for short-term wind speed forecasting. Managed the entire project lifecycle, from literature review and model design to Python-based training and paper drafting.
 
-      Improved API response time by 40% through optimization.
 
-      Mentored team of 5 junior developers.\n"
-  - role: "Full-Stack Developer"
-    org: "Startup Inc"
-    start: "2021-06-01"
-    end: "2022-12-31"
-    summary: "Built and deployed 3 production applications from scratch.
+      Algorithm Innovation: Embedded momentum and divergence residuals of the 2D incompressible Navier-Stokes equations into the loss function, acting as a physical regularization to ensure the physical consistency of predictions.
 
-      Implemented CI/CD pipeline reducing deployment time by 60%.
 
-      Led migration from monolith to microservices architecture.\n"
-  - role: "Junior Developer"
-    org: "Web Agency"
-    start: "2020-01-01"
-    end: "2021-05-31"
-    summary: "Developed client websites using React and modern web technologies.
+      Data Engineering: Designed a multi-scale data preprocessing pipeline utilizing Instance Normalization, STL decomposition, and sliding window techniques.
 
-      Participated in code reviews and agile ceremonies.\n"
+
+      Key Achievements: The model outperformed traditional data-driven methods on the ERA5 dataset, achieving a MAPE of 5.67% and RMSE of 0.7045.
+
+
+      Publication: Research culminated in a paper, \"Physics-informed Deep Learning for Short-term Wind Forecasting,\" accepted at ECE Forum 2025."
+  - role: "Electrical Engineering Researcher"
+    org: "Tsinghua University"
+    start: "Sep 2025"
+    end: ""
+    summary: "Spearheading research on the supply adequacy and cross-regional collaborative planning of new power systems, focusing on extreme scenarios like low wind and low light conditions. Leveraged Python and MATLAB to process and visualize large-scale power generation data, specifically analyzing the interaction between the East China Power Grid and the nine major renewable energy bases in the Shagehuang region. The research aims to optimize power transmission and ensure grid stability. Currently drafting a comprehensive graduation thesis and academic papers using LaTeX to present strategies for efficient renewable energy integration."
 skills:
   - name: "Development"
     items:
@@ -82,7 +85,15 @@ skills:
       - label: "CI/CD"
         level: 5
 languages:
-  - name: "English"
+  - name: "Chinese"
     level: 5
     label: "Native"
-awards: []
+  - name: "English"
+    level: 4
+    label: "Fluent"
+awards:
+  - title: "National Scholarship"
+    awarder: ""
+    date: ""
+    summary: ""
+    icon: ""

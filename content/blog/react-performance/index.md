@@ -1,16 +1,17 @@
 ---
-title: "React Performance Optimization: A Practical Guide"
-date: 2024-11-22
-summary: "Learn how to identify and fix performance bottlenecks in React applications with real-world examples and profiling techniques"
+title: "Spatial Synergy Against Renewable Droughts: Evaluating Long-Distance
+  Interconnection between Gobi Desert Renewable Bases and East China Power Grid"
+date: 2026-03-12T16:00:00.000Z
+summary: Spatial coincidence analysis is empirically anchored in the real-world
+  grid topology connecting China's  Gobi desert renewable bases and the East
+  China Power Grid.Differences in spatial coincidence be
 tags:
-  - React
-  - Performance
-  - JavaScript
-  - Frontend
-  - Optimization
+  - DevOps
 authors:
   - me
 featured: true
+draft: false
+
 ---
 
 React apps can become slow as they grow. This guide covers practical techniques to identify bottlenecks and optimize performance, backed by real-world examples.

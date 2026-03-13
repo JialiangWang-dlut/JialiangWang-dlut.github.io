@@ -1,7 +1,9 @@
 ---
-title: "WeatherNow - Real-Time Weather App"
+title: Transformable UAV & Smart Car
 date: 2024-06-10
-summary: "Beautiful weather application with real-time data, 7-day forecasts, and interactive maps"
+summary: Spearheaded hardware and control algorithm design for two
+  National-Level Undergraduate Innovation robotics projects. As Project Lead for
+  an FPGA-based Amphibious Transformable UAV, I designed the comp
 tags:
   - Frontend
   - React
@@ -22,14 +24,15 @@ links:
     url: https://weathernow-demo.netlify.app
     label: Demo
 featured: false
-status: "Live"
-role: "Solo Developer"
-duration: "3 weeks"
+status: Live
+role: Solo Developer
+duration: 3 weeks
 team_size: 1
 highlights:
-  - "PWA with offline support"
-  - "5000+ monthly active users"
+  - PWA with offline support
+  - 5000+ monthly active users
   - "Lighthouse score: 100"
+
 ---
 
 A fast, beautiful weather application that provides real-time weather data, forecasts, and interactive maps. Built as a Progressive Web App with offline support.

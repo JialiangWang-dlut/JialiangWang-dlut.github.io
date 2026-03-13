@@ -1,8 +1,10 @@
 ---
-title: "E-Commerce Platform"
+title: PINN used in Wind Speed Forecasting
 date: 2024-11-15
-summary: "E-commerce API backend with Stripe payments, inventory management, and real-time webhooks"
-tags: 
+summary: Wind speed forecasting is pivotal for grid dispatch and renewable
+  integration. While data-driven models have improved accuracy, they often omit
+  explicit physical constraints. We propose a physics-info
+tags:
   - Backend
   - Node.js
   - API
@@ -24,15 +26,16 @@ links:
     url: https://shop-demo.example.com
     label: Demo
 featured: true
-status: "Live"
-role: "Lead Developer"
-duration: "4 months"
+status: Live
+role: Lead Developer
+duration: 4 months
 team_size: 2
 highlights:
-  - "Handles 10k+ concurrent users"
-  - "99.9% uptime SLA"
-  - "Processing $50k+ monthly transactions"
-  - "60% faster page load vs competitors"
+  - Handles 10k+ concurrent users
+  - 99.9% uptime SLA
+  - Processing $50k+ monthly transactions
+  - 60% faster page load vs competitors
+
 ---
 
 A modern, scalable e-commerce platform built from scratch with performance and user experience as top priorities.

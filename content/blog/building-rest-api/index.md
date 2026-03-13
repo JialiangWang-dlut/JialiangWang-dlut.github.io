@@ -1,16 +1,14 @@
 ---
-title: "Building a Production-Ready REST API with Node.js and Express"
-date: 2024-12-10
-summary: "A comprehensive guide to building scalable, secure REST APIs with proper error handling, validation, and documentation"
-tags:
-  - Node.js
-  - Express
-  - REST API
-  - Backend
-  - Tutorial
+title: Physics-informed Deep Learning for Short-term Wind Forecasting
+date: 2025-09-09T16:00:00.000Z
+summary: Directed the end-to-end research and development of a Physics-Informed
+  Deep Learning (LSTM) model for short-term wind speed forecasting. Managed the
+  entire project lifecycle, from literature review an
+tags: []
 authors:
   - me
 featured: true
+
 ---
 
 Building a REST API seems straightforward until you need to handle authentication, validation, error handling, and documentation. This guide covers best practices for production-ready APIs.
